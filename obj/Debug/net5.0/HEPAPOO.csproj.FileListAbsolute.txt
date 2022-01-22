@@ -1,0 +1,16 @@
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\bin\Debug\net5.0\HEPAPOO.exe
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\bin\Debug\net5.0\HEPAPOO.deps.json
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\bin\Debug\net5.0\HEPAPOO.runtimeconfig.json
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\bin\Debug\net5.0\HEPAPOO.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\bin\Debug\net5.0\HEPAPOO.dll
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\bin\Debug\net5.0\ref\HEPAPOO.dll
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\bin\Debug\net5.0\HEPAPOO.pdb
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\obj\Debug\net5.0\HEPAPOO.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\obj\Debug\net5.0\HEPAPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\obj\Debug\net5.0\HEPAPOO.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\obj\Debug\net5.0\HEPAPOO.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\obj\Debug\net5.0\HEPAPOO.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\obj\Debug\net5.0\HEPAPOO.dll
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\obj\Debug\net5.0\ref\HEPAPOO.dll
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\obj\Debug\net5.0\HEPAPOO.pdb
+C:\Users\Rafael\Desktop\HEPA\HEPAPOO\obj\Debug\net5.0\HEPAPOO.genruntimeconfig.cache
