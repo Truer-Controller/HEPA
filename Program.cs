@@ -1,4 +1,5 @@
 ﻿using System;
+using HEPAPOO.Interfaces;
 using HEPAPOO.Models;
 
 namespace HEPAPOO
@@ -7,11 +8,17 @@ namespace HEPAPOO
     {
         static void Main(string[] args)
         {
-            Computador c = new Computador();
-            System.Console.WriteLine(c.ToString());
+
+            ICalculadora calc = new Calculadora();
+            System.Console.WriteLine(calc.Somar(10, 20));
+
+            // Computador c = new Computador();
+            // System.Console.WriteLine(c.ToString());
+
             // Corrente c = new Corrente();
             // c.Creditar(1000);
             // c.ExibirSaldo();
+
             // Calculadora c = new Calculadora();
             // System.Console.WriteLine("Resultado da soma 1 é: " + c.Somar(10, 10));
             // System.Console.WriteLine("Resultado da soma 2 é: " + c.Somar(10, 10, 20));
