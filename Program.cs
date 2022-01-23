@@ -7,10 +7,14 @@ namespace HEPAPOO
     {
         static void Main(string[] args)
         {
-
-            Calculadora c = new Calculadora();
-            System.Console.WriteLine("Resultado da soma 1 é: " + c.Somar(10, 10));
-            System.Console.WriteLine("Resultado da soma 2 é: " + c.Somar(10, 10, 20));
+            Computador c = new Computador();
+            System.Console.WriteLine(c.ToString());
+            // Corrente c = new Corrente();
+            // c.Creditar(1000);
+            // c.ExibirSaldo();
+            // Calculadora c = new Calculadora();
+            // System.Console.WriteLine("Resultado da soma 1 é: " + c.Somar(10, 10));
+            // System.Console.WriteLine("Resultado da soma 2 é: " + c.Somar(10, 10, 20));
             // Aluno p1 = new Aluno();
             // p1.Nome = "Rafael";
             // p1.Idade = 20;
